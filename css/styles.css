@@ -1,0 +1,37 @@
+
+body{
+    background-color: lawngreen;
+}
+
+
+
+
+
+
+
+hr{
+    background-color: lawngreen;
+    border-style: none;
+    border-top-style: dotted;
+    height: 100px;
+    width:50%;
+    border-width: 50px;
+}
+
+
+
+h1{
+  color: lime;
+
+}
+
+
+h2{
+    color: lime;
+}
+
+
+p{
+    color: lime;
+}
+
